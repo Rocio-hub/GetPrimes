@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMlFT3YYqPXD1+2Rz3gtu+Jxa+new4SaguECpU9/jraYahzLwNy/R6kGW+Cr5BAFOqIafVbf26pdy5LpD4Czfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rtlop\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
