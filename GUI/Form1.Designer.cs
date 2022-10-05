@@ -101,7 +101,7 @@
             this.lb_list.Location = new System.Drawing.Point(488, 119);
             this.lb_list.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lb_list.Name = "lb_list";
-            this.lb_list.Size = new System.Drawing.Size(141, 294);
+            this.lb_list.Size = new System.Drawing.Size(168, 323);
             this.lb_list.TabIndex = 5;
             this.lb_list.ValueMember = "70";
             // 
@@ -111,7 +111,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(736, 575);
+            this.ClientSize = new System.Drawing.Size(742, 573);
             this.Controls.Add(this.lb_list);
             this.Controls.Add(this.btn_calculatePrimes);
             this.Controls.Add(this.tb_last);

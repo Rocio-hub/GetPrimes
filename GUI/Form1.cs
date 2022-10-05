@@ -13,12 +13,21 @@ namespace GUI
 
         private async void btn_calculatePrimes_Click(object sender, EventArgs e)
         {
-            long firstNumber = long.Parse(tb_first.Text);
-            long lastNumber = long.Parse(tb_last.Text);
-            
-            List<long> primeNumbers = await pg.GetPrimesAsync(firstNumber, lastNumber);
+            try
+            {
+                long firstNumber = long.Parse(tb_first.Text);
+                long lastNumber = long.Parse(tb_last.Text);
 
-            lb_list.DataSource = primeNumbers;
+                List<long> primeNumbers = await pg.GetPrimesAsync(firstNumber, lastNumber);
+
+                lb_list.DataSource = primeNumbers;
+            } catch (Exception)
+            {
+                lb_list.DataSource = null;
+            }
+
+            
+            
         }
     }
 }
