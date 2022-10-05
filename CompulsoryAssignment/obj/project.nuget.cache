@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aMlFT3YYqPXD1+2Rz3gtu+Jxa+new4SaguECpU9/jraYahzLwNy/R6kGW+Cr5BAFOqIafVbf26pdy5LpD4Czfw==",
+  "dgSpecHash": "cJZPgt48C0VDK5VOjvtco1EHLDhTzQEv4CsI4eGqSKDpPmRsVjBlY3UdycnO6vvz/MZxcygn4OYRYI0AN+PbOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
+  "projectFilePath": "D:\\Github\\GetPrimes\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rtlop\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\rtlop\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"

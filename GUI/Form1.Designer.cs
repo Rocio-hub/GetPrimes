@@ -28,12 +28,104 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.Label lbl_first;
+            System.Windows.Forms.Label lbl_last;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.tb_first = new System.Windows.Forms.TextBox();
+            this.tb_last = new System.Windows.Forms.TextBox();
+            this.btn_calculatePrimes = new System.Windows.Forms.Button();
+            this.lb_list = new System.Windows.Forms.ListBox();
+            lbl_first = new System.Windows.Forms.Label();
+            lbl_last = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lbl_first
+            // 
+            lbl_first.AutoSize = true;
+            lbl_first.BackColor = System.Drawing.Color.Transparent;
+            lbl_first.Font = new System.Drawing.Font("Aleo", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            lbl_first.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            lbl_first.Location = new System.Drawing.Point(127, 89);
+            lbl_first.Name = "lbl_first";
+            lbl_first.Size = new System.Drawing.Size(172, 23);
+            lbl_first.TabIndex = 0;
+            lbl_first.Text = "Enter first number:";
+            // 
+            // lbl_last
+            // 
+            lbl_last.AutoSize = true;
+            lbl_last.BackColor = System.Drawing.Color.Transparent;
+            lbl_last.Font = new System.Drawing.Font("Aleo", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            lbl_last.Location = new System.Drawing.Point(127, 181);
+            lbl_last.Name = "lbl_last";
+            lbl_last.Size = new System.Drawing.Size(168, 23);
+            lbl_last.TabIndex = 1;
+            lbl_last.Text = "Enter last number:";
+            // 
+            // tb_first
+            // 
+            this.tb_first.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tb_first.Location = new System.Drawing.Point(163, 130);
+            this.tb_first.Name = "tb_first";
+            this.tb_first.Size = new System.Drawing.Size(100, 29);
+            this.tb_first.TabIndex = 2;
+            // 
+            // tb_last
+            // 
+            this.tb_last.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.tb_last.Location = new System.Drawing.Point(163, 218);
+            this.tb_last.Name = "tb_last";
+            this.tb_last.Size = new System.Drawing.Size(100, 29);
+            this.tb_last.TabIndex = 3;
+            // 
+            // btn_calculatePrimes
+            // 
+            this.btn_calculatePrimes.Font = new System.Drawing.Font("Aleo", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btn_calculatePrimes.Location = new System.Drawing.Point(101, 274);
+            this.btn_calculatePrimes.Name = "btn_calculatePrimes";
+            this.btn_calculatePrimes.Size = new System.Drawing.Size(235, 49);
+            this.btn_calculatePrimes.TabIndex = 4;
+            this.btn_calculatePrimes.Text = "Calculate prime numbers";
+            this.btn_calculatePrimes.UseVisualStyleBackColor = true;
+            this.btn_calculatePrimes.Click += new System.EventHandler(this.btn_calculatePrimes_Click);
+            // 
+            // lb_list
+            // 
+            this.lb_list.DisplayMember = "70";
+            this.lb_list.Font = new System.Drawing.Font("Aleo", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lb_list.FormattingEnabled = true;
+            this.lb_list.ItemHeight = 23;
+            this.lb_list.Location = new System.Drawing.Point(427, 89);
+            this.lb_list.Name = "lb_list";
+            this.lb_list.Size = new System.Drawing.Size(124, 234);
+            this.lb_list.TabIndex = 5;
+            this.lb_list.ValueMember = "70";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(644, 431);
+            this.Controls.Add(this.lb_list);
+            this.Controls.Add(this.btn_calculatePrimes);
+            this.Controls.Add(this.tb_last);
+            this.Controls.Add(this.tb_first);
+            this.Controls.Add(lbl_last);
+            this.Controls.Add(lbl_first);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private TextBox tb_first;
+        private TextBox tb_last;
+        private Button btn_calculatePrimes;
+        private ListBox lb_list;
     }
 }

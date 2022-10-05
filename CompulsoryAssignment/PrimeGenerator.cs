@@ -65,5 +65,13 @@ namespace CompulsoryAssignment
             stopwatch.Stop();
             Console.Write(stopwatch.Elapsed.TotalMilliseconds+"\n");
         }
+
+        public Task<List<long>> GetPrimesAsync(long first, long last)
+        {
+            return Task.Factory.StartNew(() =>
+            {
+                return GetPrimesParallel(first, last);
+            });
+        }
     }
 }

@@ -17,3 +17,22 @@ C:\Users\rtlop\Desktop\EASV\Parallel Programming\Compulsory\CompulsoryAssignment
 C:\Users\rtlop\Desktop\EASV\Parallel Programming\Compulsory\CompulsoryAssignment\CompulsoryAssignment\bin\Debug\net6.0\System.Management.dll
 C:\Users\rtlop\Desktop\EASV\Parallel Programming\Compulsory\CompulsoryAssignment\CompulsoryAssignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
 C:\Users\rtlop\Desktop\EASV\Parallel Programming\Compulsory\CompulsoryAssignment\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.csproj.CopyComplete
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\CompulsoryAssignment.exe
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\CompulsoryAssignment.deps.json
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\CompulsoryAssignment.runtimeconfig.json
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\CompulsoryAssignment.dll
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\CompulsoryAssignment.pdb
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\System.CodeDom.dll
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\System.Management.dll
+D:\Github\GetPrimes\CompulsoryAssignment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.csproj.AssemblyReference.cache
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.AssemblyInfoInputs.cache
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.AssemblyInfo.cs
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.csproj.CoreCompileInputs.cache
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.csproj.CopyComplete
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.dll
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\refint\CompulsoryAssignment.dll
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.pdb
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\CompulsoryAssignment.genruntimeconfig.cache
+D:\Github\GetPrimes\CompulsoryAssignment\obj\Debug\net6.0\ref\CompulsoryAssignment.dll

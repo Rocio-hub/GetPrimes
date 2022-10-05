@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0lt5CWs68/UJxtrDOjJ021MEK4w1Y0Srvrg5P2Pkq8Hq2XdrEpIUmoZl8bofKBnO+srjsewRHNeLR3RgqxMohQ==",
+  "dgSpecHash": "kfA+C5/EpV0sXfh51nmSBFYu8qUoH5yLsQb8Sg7PGgRu0XmlU/IsUgS3Wk14CXV+hyLsgJWabO9JUvmHOEQkVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\GUI\\GUI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Github\\GetPrimes\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rtlop\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

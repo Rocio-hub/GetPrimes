@@ -109,11 +109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
+      "projectUniqueName": "D:\\Github\\GetPrimes\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
       "projectName": "CompulsoryAssignment",
-      "projectPath": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
+      "projectPath": "D:\\Github\\GetPrimes\\CompulsoryAssignment\\CompulsoryAssignment.csproj",
       "packagesPath": "C:\\Users\\rtlop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rtlop\\Desktop\\EASV\\Parallel Programming\\Compulsory\\CompulsoryAssignment\\CompulsoryAssignment\\obj\\",
+      "outputPath": "D:\\Github\\GetPrimes\\CompulsoryAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtlop\\AppData\\Roaming\\NuGet\\NuGet.Config",
